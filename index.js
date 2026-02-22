@@ -5,7 +5,7 @@ const port = 3000
 app.get('/', (req, res) => {
   res.send(`
     <h1>Online Batch - Node js CICD</h1>
-    <h1>Version = 1.0.0</h1>
+    <h1>Version = 2.0.0</h1>
   `)
 })
 
