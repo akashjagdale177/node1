@@ -1,6 +1,6 @@
 {
   "name": "node1",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is First Node js Project On jenkins",
   "main": "index.js",
   "scripts": {
