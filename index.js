@@ -3,7 +3,8 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('<h1>Online Batch - Node js CICD</h1>')
+  res.send('<h1>Online Batch - Node js CICD</h1>
+           <h1> version = 1.0.0 </h1>')
 })
 
 app.listen(port,'0.0.0.0', () => {
